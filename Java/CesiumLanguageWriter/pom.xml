@@ -8,6 +8,21 @@
     <artifactId>czml-writer</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
+    <url>https://github.com/Zudokakikuto/czml-writer</url>
+
+    <scm>
+        <connection>scm:git:https://github.com/zudokakikuto/czml-writer.git</connection>
+        <developerConnection>scm:git:git@github.com:zudokakikuto/czml-writer.git</developerConnection>
+        <url>https://github.com/zudokakikuto/czml-writer</url>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>zudokakikuto</id>
+            <name>Leblond Julien</name>
+            <email>julien.leblond@estaca.eu</email>
+        </developer>
+    </developers>
 
     <name>CesiumLanguageWriter</name>
     <description>Fork of Cesium CZML Writer</description>
