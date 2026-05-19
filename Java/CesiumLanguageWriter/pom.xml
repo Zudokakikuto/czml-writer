@@ -4,7 +4,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.zudo</groupId>
+    <groupId>io.github.zudokakikuto</groupId>
     <artifactId>czml-writer</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
